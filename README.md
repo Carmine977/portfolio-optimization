@@ -8,7 +8,7 @@ The approach is inspired by the **Machine Learning for Trading course** of Georg
 
 ## Contents
 
-Given a set of N stocks, whose data are availbale in provided csv files, the code use the *scipy* optimization library to calculate the optimal percentage of each stock in the portfolio to get an optimal return over the time period considered. 
+Given a set of N stocks, whose data are available in provided csv files, the code use the *scipy* optimization library to calculate the optimal percentage of each stock in the portfolio to get an optimal return over the time period considered. 
 
 
 ## Usage
